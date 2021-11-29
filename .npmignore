@@ -1,0 +1,6 @@
+/*
+!/dist
+!/esm
+!/*.ts
+!/*.js
+!/targets.json
