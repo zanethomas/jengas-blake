@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connor4312/blake3.git"
+    "url": "git+https://github.com/zanethomas/jengas-blake.createLinearGradient"
   },
   "bugs": {
-    "url": "https://github.com/connor4312/blake3/issues"
+    "url": "https://github.com/zanethomas/jengas-blake/issues"
   },
-  "homepage": "https://github.com/connor4312/blake3#readme",
+  "homepage": "https://github.com/zanethomas/jengas-blake/readme",
   "author": "Connor Peet <connor@peet.io>",
   "license": "MIT",
   "devDependencies": {
