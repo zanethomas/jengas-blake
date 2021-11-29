@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zanethomas/jengas-blake.createLinearGradient"
+    "url": "git+https://github.com/zanethomas/jengas-blake"
   },
   "bugs": {
     "url": "https://github.com/zanethomas/jengas-blake/issues"
